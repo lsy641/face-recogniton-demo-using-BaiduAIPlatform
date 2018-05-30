@@ -1,11 +1,15 @@
 # face-recogniton-demo-using-BaiduAIPlatform
 It is a demo imitating Unmanned supermarket ，including face detection ,face register, face searching, and voice controlling is added to improve its robustness so that users can talk to have a communication with program . 
 
-about dependence libs:关于依赖库：
+about dependence libs:
+关于依赖库：
+
 if you know how to use virtualenv, you can easily run project in a virtual environment.
 如果你会使用virtualenv，你可以用virtualenv在虚拟环境下运行项目。
+
 if you want to run in your local environment,the following libraries you must install:
 如果你想在本地环境顺利运行，必须安装以下依赖库：
+
 pillow
 opencv-python
 baidu-aip (人脸识别环节)
