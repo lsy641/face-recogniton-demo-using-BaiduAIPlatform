@@ -1,6 +1,8 @@
 # face-recogniton-demo-using-BaiduAIPlatform
 It is a demo imitating Unmanned supermarket ，including face detection ,face register, face searching, and voice controlling is added to improve its robustness so that users can talk to have a communication with program . 
 
+python version：3.6
+
 about dependence libs:
 关于依赖库：
 
@@ -22,3 +24,18 @@ mac上必须安装的一些工具
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
 安装好后，用brew命令安装需要的app，如下：
 brew install app名
+
+
+how to use demo ：
+怎么运行demo：
+
+face-register:
+人脸注册：
+在当前目录下（bd-face-api）运行
+python rigist.py
+
+face-searching(authentication)
+人脸搜索（认证）：
+在当前目录下（bd-face-api）运行
+python check.py
+
