@@ -11,7 +11,7 @@ matplotlib==2.2.2
 numpy==1.14.3
 opencv-python==3.4.1.15
 pefile==2017.11.5
-Pillow==5.1.0
+Pillow==8.1.1
 PyAudio==0.2.11
 pydub==0.22.0
 pygame==1.9.3
