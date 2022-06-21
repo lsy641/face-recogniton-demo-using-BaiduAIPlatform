@@ -8,7 +8,7 @@ idna==2.6
 kiwisolver==1.0.1
 macholib==1.9
 matplotlib==2.2.2
-numpy==1.14.3
+numpy==1.22.0
 opencv-python==3.4.1.15
 pefile==2017.11.5
 Pillow==5.1.0
